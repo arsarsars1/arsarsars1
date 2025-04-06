@@ -17,18 +17,18 @@
 
 ---
 
+### 🔥 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=arsarsars1&style=flat-square&color=green&abbreviated=true" alt="Profile Views">  
+
+---
+
 ### 📊 GitHub Stats  
 
-![Abdul Rehman GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Abdul Rehman GitHub stats](https://github-readme-stats.vercel.app/api?username=arsarsars1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Abdul Rehman GitHub counts](https://github-readme-stats.vercel.app/api/top-langs/?username=arsarsars1&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arsarsars1&theme=bear&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
----
-
-### 🔥 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=arsarsars1&style=flat-square&color=green&abbreviated=true" alt="Profile Views">  
 
 ---
 
